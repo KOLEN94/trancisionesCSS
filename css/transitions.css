@@ -25,6 +25,7 @@ body {
 
 .opacity {
 	opacity: 0;
+	transition: all 1s ease-in-out
 }
 
 .opacity:hover {
